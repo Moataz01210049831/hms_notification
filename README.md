@@ -278,3 +278,6 @@ export class NotificationsService implements OnInit {
    
   }
 }
+
+# add these files in this url 
+/Po_eServices_Ionic/android/capacitor-cordova-android-plugins/src/main/java/com/huawei/hms/cordova/push/remote
